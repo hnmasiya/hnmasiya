@@ -1,113 +1,200 @@
 <div align="center">
 
-# 🛡️ Hazvinei Nomatter Masiya
-### **Cybersecurity Analyst | Security Operations | Detection & Response**
+# Hazvinei Nomatter Masiya
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://hnmasiya.github.io/cybersecurity-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazvinei-masiya)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
+### Cybersecurity Analyst · Security Operations · Detection & Automation
 
-</div>
+**Enterprise IT Professional | CompTIA Security+ | Google Cybersecurity**
 
----
+9+ years of hands-on enterprise IT experience supporting Windows environments, infrastructure, access control, endpoint security, system hardening, troubleshooting, and business-critical operations — now focused on cybersecurity, security operations, detection, investigation, and automation.
 
-### 📌 Professional Summary
+<br>
 
-IT professional with **9+ years of enterprise infrastructure experience** transitioning into dedicated cybersecurity engineering and Security Operations (SOC). Currently pursuing a **BSc in Computer Science**, combining formal academic study with deep practical expertise in managing business-critical enterprise Windows environments, Active Directory, access control, system hardening, and network security.
-
-Combines broad systems engineering experience with independently developed, evidence-backed cybersecurity labs covering SIEM detection engineering, log analysis, threat hunting, network forensics, and security automation.
-
----
-
-### 🌐 Featured Cybersecurity Portfolio
-
-> **Evidence-Backed Security Portfolio:** Practical demonstrations of security monitoring, log analysis, detection engineering, incident investigation, web security, and infrastructure automation.
-
-👉 **[Open My Live Cybersecurity Portfolio](https://hnmasiya.github.io/cybersecurity-portfolio/)**
-
----
-
-### 🛠️ Technical Stack & Security Tooling
-
-<div align="center">
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/evalcenter/evaluate-windows-server-2022)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-masiya--hub.org-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masiya-hub.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazvinei-masiya)
+[![GitHub](https://img.shields.io/badge/GitHub-hnmasiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
 
 </div>
 
-| Domain | Technical Stack & Capabilities |
+---
+
+## Profile
+
+I am an **enterprise IT professional specializing in cybersecurity**, bringing 9+ years of practical experience across Windows environments, infrastructure operations, access control, system hardening, endpoint protection, patch management, backup and recovery, and business-critical technical support.
+
+My cybersecurity work builds on that infrastructure foundation and focuses on **security operations, security monitoring, log analysis, detection, incident investigation, network security, vulnerability assessment, cloud security, and automation**.
+
+I build and document hands-on security projects to demonstrate how I approach technical investigation, secure configuration, detection engineering, evidence collection, analysis, and remediation.
+
+### Career Focus
+
+- Security Operations / SOC
+- Cybersecurity Analysis
+- Detection & Response
+- Security Monitoring & Log Analysis
+- Detection Engineering
+- Security Automation
+- Enterprise Security
+- Security Engineering
+
+---
+
+## Security Capabilities
+
+| Domain | Practical Focus |
 |---|---|
-| **Security Operations & SOC** | SIEM (Wazuh, Splunk), Alert Triage, Log Analysis, Incident Investigation, MITRE ATT&CK |
-| **Detection Engineering** | Custom YARA Rules, SPL Queries, Windows Event Log Analysis, System Hardening |
-| **Network Security & DFIR** | Wireshark, PCAP Analysis, Nmap, Network Traffic Analysis, Evidence Preservation |
-| **Systems & Infrastructure** | Active Directory, Windows Server, Linux (Ubuntu/Debian), Access Control (PoLP) |
-| **Automation & Cloud** | Python 3, Bash, PowerShell, GCP (VPC, IAM), Terraform |
+| **Security Operations** | Monitoring, alert analysis, investigation, triage, documentation |
+| **Detection & Analysis** | Security-event analysis, log parsing, threat detection, authentication analysis |
+| **Systems Security** | Windows, Linux, Active Directory, access control, least privilege, hardening |
+| **Network Security** | Network traffic analysis, segmentation, secure infrastructure |
+| **Security Automation** | Python, Bash, PowerShell, repeatable security workflows |
+| **Cloud Security** | GCP networking, VPC architecture, IAM concepts, infrastructure security |
+| **Security Assessment** | Vulnerability assessment, risk analysis, remediation |
+| **Security Frameworks** | NIST CSF, MITRE ATT&CK, least privilege, defense in depth |
 
 ---
 
-### 🔎 Featured Security Projects & Codebases
+# Featured Security Engineering Projects
 
-* **[Active Directory Security Log Parser](https://github.com/hnmasiya/ad-security-log-parser)**  
-  *Python security tooling focused on Windows Security Event Log analysis (Event ID 4728, 4732, 4756) and privileged group-change detection.*
-* **[Wazuh SIEM Detection Engineering](https://github.com/hnmasiya/wazuh-siem-detection-lab)**  
-  *Custom Wazuh detection rules mapped to the MITRE ATT&CK framework, log analysis, and automated active responses.*
-* **[GCP Secure Multi-Tier VPC](https://github.com/hnmasiya/gcp-terraform-secure-vpc)**  
-  *Terraform-based cloud security architecture with strict IAM policies, custom VPC firewall rules, and zero public ingress.*
-* **[Cybersecurity Evidence Repository](https://github.com/hnmasiya/cybersecurity-portfolio)**  
-  *Central repository hosting PCAP analysis, Nmap scans, OWASP assessments, and custom SPL/YARA detection signatures.*
+## 🛡️ Active Directory Security Log Parser
 
----
+A Python-based security analysis project focused on parsing and analyzing security-relevant Windows / Active Directory event data.
 
-### 🔍 Incident Investigation & SOC Write-Ups
+**Focus:** Windows security events · log parsing · security analysis · Python automation
 
-<details>
-<summary><b>1. Network Forensics: Wireshark PCAP Investigation (Click to Expand)</b></summary>
-
-* **Objective:** Identify cleartext credential exposure and malicious scanning activity across an enterprise subnetwork.
-* **Findings:** Identified unencrypted HTTP POST traffic transmitting user credentials (`Event ID: DFIR-0912`), isolated malicious port scans targeting port 445 (SMB) originating from host `192.168.1.105`.
-* **Remediation:** Enforced TLS 1.3 across web endpoints and implemented dynamic drop rules on the perimeter firewall.
-</details>
-
-<details>
-<summary><b>2. SIEM Triage: Brute-Force & Privilege Escalation Alerting (Click to Expand)</b></summary>
-
-* **Objective:** Investigate recurring Event ID 4625 (Failed Logon) spikes detected by Wazuh SIEM.
-* **Findings:** Traced 450+ failed Kerberos logon attempts in under 3 minutes targeting Domain Admin accounts, followed by a single successful Event ID 4624 login from an unmanaged internal host.
-* **Remediation:** Executed host isolation via Wazuh Active Response agent, reset domain admin credentials, and enabled MFA enforcement.
-</details>
-
-<details>
-<summary><b>3. Threat Hunting: YARA Signature Development for Web Shell Detection (Click to Expand)</b></summary>
-
-* **Objective:** Craft custom YARA rules to detect obfuscated PHP web shells deployed on compromised web servers.
-* **Findings:** Wrote a multi-string condition rule matching `eval(base64_decode(...))` and suspicious system calls (`system`, `passthru`, `exec`).
-* **Remediation:** Integrated YARA rule into endpoint detection scanners, preventing persistence on web infrastructure.
-</details>
+[View Repository](https://github.com/hnmasiya/ad-security-log-parser)
 
 ---
 
-### 🎓 Education & Industry Certifications
+## 🔎 Wazuh SIEM Detection Lab
 
-* 🎓 **Bachelor of Science (BSc) in Computer Science** *(In Progress)*
-* 📜 **Diploma in Information Technology** — *Macmaine School of Computing*
-* 🛡️ **CompTIA Security+ Certified**
-* 🥇 **Google Cybersecurity Professional Certificate**
-* 💻 **Google IT Support Professional Certificate**
+A hands-on security monitoring and detection environment demonstrating SIEM-based analysis, security-event monitoring, and investigation workflows.
+
+**Focus:** Wazuh · SIEM · security monitoring · detection · log analysis · investigation
+
+[View Repository](https://github.com/hnmasiya/wazuh-siem-detection-lab)
 
 ---
 
-### 📈 GitHub Profile Analytics
+## ☁️ GCP Secure VPC with Terraform
+
+A cloud-security infrastructure project using Terraform to demonstrate secure Google Cloud networking and infrastructure-as-code practices.
+
+**Focus:** Google Cloud · VPC · network architecture · segmentation · Terraform · cloud security
+
+[View Repository](https://github.com/hnmasiya/gcp-terraform-secure-vpc)
+
+---
+
+## 🧪 Cybersecurity Technical Portfolio
+
+A structured collection of cybersecurity labs, assessments, investigations, security exercises, and technical documentation.
+
+The portfolio distinguishes **certificate coursework from independently developed security projects** and emphasizes evidence, technical reasoning, investigation methodology, and remediation.
+
+[View Technical Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)
+
+---
+
+# Google Cybersecurity Certificate Work
+
+Hands-on security exercises completed as part of the **Google Cybersecurity Professional Certificate**, including:
+
+- Security audits and security controls
+- Linux file permissions and least privilege
+- SQL-based security-log analysis
+- Python security automation
+- Network traffic analysis with Wireshark
+
+These projects are presented accurately as **certificate coursework and practical learning evidence**, rather than professional client engagements.
+
+[Explore the Portfolio](https://masiya-hub.org/)
+
+---
+
+# Technical Toolkit
+
+### Security Operations
+`Wazuh` · `Security Monitoring` · `Log Analysis` · `Threat Detection` · `Incident Triage`
+
+### Detection & Investigation
+`MITRE ATT&CK` · `Authentication Analysis` · `Incident Investigation` · `Security Event Analysis`
+
+### Networking
+`Wireshark` · `Nmap` · `TCP/IP` · `Network Security` · `VPC` · `Network Segmentation`
+
+### Systems
+`Windows Server` · `Active Directory` · `Linux` · `Access Control` · `Least Privilege` · `System Hardening`
+
+### Automation & Development
+`Python` · `Bash` · `PowerShell` · `SQL` · `Terraform`
+
+### Cloud
+`Google Cloud Platform` · `VPC` · `IAM` · `Infrastructure as Code`
+
+---
+
+# Certifications
+
+- **CompTIA Security+**
+- **Google Cybersecurity Professional Certificate**
+- **Google IT Support Professional Certificate**
+
+---
+
+# Security Engineering Approach
+
+**Understand → Identify → Protect → Detect → Investigate → Remediate**
+
+I aim to produce security work that is:
+
+- Evidence-based
+- Reproducible
+- Technically defensible
+- Clearly documented
+- Focused on practical remediation
+- Honest about the distinction between professional experience, independent projects, and coursework
+
+---
+
+# Professional Background
+
+### 9+ Years of Enterprise IT Operations
+
+My infrastructure experience includes hands-on work with:
+
+- Windows environments
+- Active Directory
+- User permissions and access control
+- System hardening
+- Patch management
+- Endpoint protection
+- Backup and recovery
+- Infrastructure troubleshooting
+- Business-critical IT operations
+
+This experience gives me a strong systems and infrastructure foundation for cybersecurity work.
+
+---
+
+# Career Direction
+
+Currently targeting opportunities in:
+
+**SOC Analysis · Cybersecurity Analysis · Security Operations · Detection & Response · Security Automation · Security Engineering**
+
+**Open to international opportunities.**
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hnmasiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnmasiya&layout=compact&theme=tokyonight&hide_border=true" />
+### Explore the full technical portfolio
+
+**[masiya-hub.org →](https://masiya-hub.org/)**
+
+<br>
+
+[LinkedIn](https://linkedin.com/in/hazvinei-masiya) · [GitHub](https://github.com/hnmasiya)
 
 </div>

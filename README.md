@@ -1,31 +1,74 @@
-<div align="center">
-# 🛡️ Hazvinei Nomatter Masiya
-### Cybersecurity Analyst | SOC & Incident Response | Security Automation
+# Hazvinei Nomatter Masiya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:norman.masiya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Labs-181717?style=for-the-badge&logo=github)](https://github.com/hnmasiya/my-cybersecurity-portfolio)
-</div>
+**Cybersecurity Analyst | Security Operations | Detection & Response | Security Automation**
 
-## 📌 About Me
-- 🎯 **Focus:** Security Operations Center (SOC) Triage, Log Analysis, Threat Hunting, & Security Automation.
-- 🎓 **Credentials:** Google Cybersecurity Professional Certificate | CompTIA Security+ Certified
-- ⚡ **Current Work:** Developing Splunk threat hunting workflows and automated Python tooling.
-- 📍 **Location:** Zimbabwe
+---
 
-## 🛠️ Technical Skillset
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **SIEM & Log Analysis** | Splunk, Chronicle, Wireshark, tcpdump |
-| **Detection & Frameworks** | NIST CSF, MITRE ATT&CK, YARA Rules, Suricata IDS |
-| **Scripting & OS** | Python 3, SQL, Bash, Linux (Ubuntu/Debian), Windows Server |
-| **Security Concepts** | Network Security, Access Control (PoLP), Incident Response |
+### 📩 Quick Links & Contact
+[🌐 Live Cybersecurity Portfolio](https://hnmasiya.github.io/cybersecurity-portfolio/) &nbsp;|&nbsp; [💻 GitHub Profile](https://github.com/hnmasiya) &nbsp;|&nbsp; [🔗 LinkedIn Profile](https://linkedin.com/in/hazvinei-masiya) &nbsp;|&nbsp; [📩 Contact via GitHub](https://github.com/hnmasiya)
 
-## 🚀 Featured Portfolio Projects
-### 📂 [My Cybersecurity Portfolio Repository](https://github.com/hnmasiya/my-cybersecurity-portfolio)
-- **Track 1: Google Cybersecurity Certificate Labs:** NIST CSF Audits, Linux Permissions, SQL Analysis, Python Automation, Wireshark PCAPs.
-- **Track 2: Independent SOC & Threat Hunting Labs:** Splunk Brute-Force Hunting, YARA Threat Intelligence.
+---
 
-<div align="center">
-![Hazvinei Stats](https://github-readme-stats.vercel.app/api?username=hnmasiya&show_icons=true&theme=tokyonight&hide_border=true)
-</div>
+## 📌 Professional Summary
+
+IT professional with **9+ years of enterprise infrastructure experience** transitioning into dedicated cybersecurity engineering and Security Operations (SOC). Possesses a strong foundation in managing business-critical enterprise Windows environments, Active Directory, access control, system hardening, and network security. 
+
+Combines deep practical IT operations knowledge with independently developed, evidence-backed cybersecurity labs covering SIEM detection engineering, log analysis, threat hunting, network forensics, and security automation.
+
+---
+
+## 🌐 Featured Cybersecurity Portfolio
+
+> **Evidence-Backed Security Portfolio:** Practical demonstrations of security monitoring, log analysis, detection engineering, incident investigation, web security, and infrastructure automation.
+
+👉 **[Open My Live Cybersecurity Portfolio](https://hnmasiya.github.io/cybersecurity-portfolio/)**
+
+---
+
+## 🛠️ Featured Security Engineering Projects
+
+### 🔎 [Active Directory Security Log Parser](https://github.com/hnmasiya/ad-security-log-parser)
+*Python security tooling focused on Windows Security Event Log analysis and privileged group-change detection.*
+* Automated parsing of Windows Event IDs related to authentication, account management, and Active Directory privilege escalation.
+* Built-in detection logic for anomalous user additions to sensitive groups (e.g., Domain Admins).
+
+### 🛡️ [Wazuh SIEM Detection Engineering](https://github.com/hnmasiya/wazuh-siem-detection-lab)
+*Hands-on detection engineering, SIEM alert triage, and rule validation.*
+* Configured custom Wazuh detection rules mapped to the MITRE ATT&CK framework.
+* Performed alert validation, rule tuning, and file integrity monitoring (FIM) log analysis.
+
+### ☁️ [GCP Secure Multi-Tier VPC](https://github.com/hnmasiya/gcp-terraform-secure-vpc)
+*Terraform-based Google Cloud infrastructure security architecture.*
+* Implemented strict least-privilege IAM policies, isolated subnets, and Cloud Firewall rules for multi-tier applications.
+* Infrastructure-as-Code (IaC) deployment enforcing cloud security best practices.
+
+### 🌐 [Cybersecurity Evidence Repository](https://github.com/hnmasiya/cybersecurity-portfolio)
+*Central evidence repository hosting documented SOC investigations, packet captures, and automation scripts.*
+* Features detailed analysis of PCAP files (Wireshark), Nmap network scans, OWASP web application security assessments, and SPL/YARA detection rules.
+
+---
+
+## 🔒 Technical Capabilities
+
+| Domain | Technical Stack & Tools |
+|---|---|
+| **Security Operations & SOC** | SIEM (Wazuh, Splunk), Alert Triage, Log Analysis, Incident Investigation, MITRE ATT&CK |
+| **Detection & Engineering** | Custom YARA Rules, SPL Queries, Windows Event Log Analysis, System Hardening |
+| **Network Security & DFIR** | Wireshark, PCAP Analysis, Nmap, Network Traffic Analysis, Evidence Preservation |
+| **Systems & Infrastructure** | Active Directory, Windows Server, Linux (Ubuntu/Debian), Access Control, Patching |
+| **Automation & Cloud** | Python, Bash, PowerShell, GCP (VPC, IAM), Terraform |
+
+---
+
+## 🎓 Certifications
+
+- **CompTIA Security+ Certified**
+- **Google Cybersecurity Professional Certificate**
+- **Google IT Support Professional Certificate**
+
+---
+
+## 💼 Professional Experience & Foundation
+
+- **Enterprise IT Operations (9+ Years):** Hands-on experience administering Windows enterprise environments, managing user access controls, enforcing security policies, troubleshooting network connectivity, and maintaining high infrastructure availability.
+- **Security Specialization (Independent Labs):** Practical, evidence-driven project development focused on threat detection, log correlation, script automation, and vulnerability assessment.

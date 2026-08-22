@@ -13,9 +13,9 @@
 
 ### 📌 Professional Summary
 
-IT professional with **9+ years of enterprise infrastructure experience** transitioning into dedicated cybersecurity engineering and Security Operations (SOC). Possesses a strong foundation in managing business-critical enterprise Windows environments, Active Directory, access control, system hardening, and network security.
+IT professional with **9+ years of enterprise infrastructure experience** transitioning into dedicated cybersecurity engineering and Security Operations (SOC). Currently pursuing a **BSc in Computer Science**, combining formal academic study with deep practical expertise in managing business-critical enterprise Windows environments, Active Directory, access control, system hardening, and network security.
 
-Combines deep practical IT operations knowledge with independently developed, evidence-backed cybersecurity labs covering SIEM detection engineering, log analysis, threat hunting, network forensics, and security automation.
+Combines broad systems engineering experience with independently developed, evidence-backed cybersecurity labs covering SIEM detection engineering, log analysis, threat hunting, network forensics, and security automation.
 
 ---
 
@@ -65,11 +65,13 @@ Combines deep practical IT operations knowledge with independently developed, ev
 
 ---
 
-### 🎓 Certifications
+### 🎓 Education & Industry Certifications
 
-* **CompTIA Security+ Certified**
-* **Google Cybersecurity Professional Certificate**
-* **Google IT Support Professional Certificate**
+* 🎓 **Bachelor of Science (BSc) in Computer Science** *(In Progress)*
+* 📜 **Diploma in Information Technology** — *Macmaine School of Computing*
+* 🛡️ **CompTIA Security+ Certified**
+* 🥇 **Google Cybersecurity Professional Certificate**
+* 💻 **Google IT Support Professional Certificate**
 
 ---
 

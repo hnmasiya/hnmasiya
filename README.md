@@ -9,7 +9,7 @@
 
 ## 📌 About Me
 - 🎯 **Focus:** Security Operations Center (SOC) Triage, Log Analysis, Threat Hunting, & Security Automation.
-- 🎓 **Credentials:** Google Cybersecurity Professional Certificate | Pursuing CompTIA Security+
+- 🎓 **Credentials:** Google Cybersecurity Professional Certificate | CompTIA Security+ Certified
 - ⚡ **Current Work:** Developing Splunk threat hunting workflows and automated Python tooling.
 - 📍 **Location:** Zimbabwe
 

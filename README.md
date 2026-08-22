@@ -5,7 +5,10 @@
 ---
 
 ### 📩 Quick Links & Contact
-[🌐 Live Cybersecurity Portfolio](https://hnmasiya.github.io/cybersecurity-portfolio/) &nbsp;|&nbsp; [💻 GitHub Profile](https://github.com/hnmasiya) &nbsp;|&nbsp; [🔗 LinkedIn Profile](https://linkedin.com/in/hazvinei-masiya) &nbsp;|&nbsp; [📩 Contact via GitHub](https://github.com/hnmasiya)
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://hnmasiya.github.io/cybersecurity-portfolio/)
+[![GitHub Profile](https://img.shields.io/badge/💻_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
+[![LinkedIn Profile](https://img.shields.io/badge/🔗_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazvinei-masiya)
+[![Contact via GitHub](https://img.shields.io/badge/📩_Contact_via_GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
 
 ---
 

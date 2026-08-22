@@ -1,26 +1,25 @@
-# Hazvinei Nomatter Masiya
+<div align="center">
 
-**Cybersecurity Analyst | Security Operations | Detection & Response | Security Automation**
+# 🛡️ Hazvinei Nomatter Masiya
+### **Cybersecurity Analyst | Security Operations | Detection & Response**
 
----
-
-### 📩 Quick Links & Contact
 [![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://hnmasiya.github.io/cybersecurity-portfolio/)
-[![GitHub Profile](https://img.shields.io/badge/💻_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
-[![LinkedIn Profile](https://img.shields.io/badge/🔗_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazvinei-masiya)
-[![Contact via GitHub](https://img.shields.io/badge/📩_Contact_via_GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazvinei-masiya)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
+
+</div>
 
 ---
 
-## 📌 Professional Summary
+### 📌 Professional Summary
 
-IT professional with **9+ years of enterprise infrastructure experience** transitioning into dedicated cybersecurity engineering and Security Operations (SOC). Possesses a strong foundation in managing business-critical enterprise Windows environments, Active Directory, access control, system hardening, and network security. 
+IT professional with **9+ years of enterprise infrastructure experience** transitioning into dedicated cybersecurity engineering and Security Operations (SOC). Possesses a strong foundation in managing business-critical enterprise Windows environments, Active Directory, access control, system hardening, and network security.
 
 Combines deep practical IT operations knowledge with independently developed, evidence-backed cybersecurity labs covering SIEM detection engineering, log analysis, threat hunting, network forensics, and security automation.
 
 ---
 
-## 🌐 Featured Cybersecurity Portfolio
+### 🌐 Featured Cybersecurity Portfolio
 
 > **Evidence-Backed Security Portfolio:** Practical demonstrations of security monitoring, log analysis, detection engineering, incident investigation, web security, and infrastructure automation.
 
@@ -28,50 +27,57 @@ Combines deep practical IT operations knowledge with independently developed, ev
 
 ---
 
-## 🛠️ Featured Security Engineering Projects
+### 🛠️ Technical Stack & Security Tooling
 
-### 🔎 [Active Directory Security Log Parser](https://github.com/hnmasiya/ad-security-log-parser)
-*Python security tooling focused on Windows Security Event Log analysis and privileged group-change detection.*
-* Automated parsing of Windows Event IDs related to authentication, account management, and Active Directory privilege escalation.
-* Built-in detection logic for anomalous user additions to sensitive groups (e.g., Domain Admins).
+<div align="center">
 
-### 🛡️ [Wazuh SIEM Detection Engineering](https://github.com/hnmasiya/wazuh-siem-detection-lab)
-*Hands-on detection engineering, SIEM alert triage, and rule validation.*
-* Configured custom Wazuh detection rules mapped to the MITRE ATT&CK framework.
-* Performed alert validation, rule tuning, and file integrity monitoring (FIM) log analysis.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### ☁️ [GCP Secure Multi-Tier VPC](https://github.com/hnmasiya/gcp-terraform-secure-vpc)
-*Terraform-based Google Cloud infrastructure security architecture.*
-* Implemented strict least-privilege IAM policies, isolated subnets, and Cloud Firewall rules for multi-tier applications.
-* Infrastructure-as-Code (IaC) deployment enforcing cloud security best practices.
+</div>
 
-### 🌐 [Cybersecurity Evidence Repository](https://github.com/hnmasiya/cybersecurity-portfolio)
-*Central evidence repository hosting documented SOC investigations, packet captures, and automation scripts.*
-* Features detailed analysis of PCAP files (Wireshark), Nmap network scans, OWASP web application security assessments, and SPL/YARA detection rules.
-
----
-
-## 🔒 Technical Capabilities
-
-| Domain | Technical Stack & Tools |
+| Domain | Technical Stack & Capabilities |
 |---|---|
 | **Security Operations & SOC** | SIEM (Wazuh, Splunk), Alert Triage, Log Analysis, Incident Investigation, MITRE ATT&CK |
-| **Detection & Engineering** | Custom YARA Rules, SPL Queries, Windows Event Log Analysis, System Hardening |
+| **Detection Engineering** | Custom YARA Rules, SPL Queries, Windows Event Log Analysis, System Hardening |
 | **Network Security & DFIR** | Wireshark, PCAP Analysis, Nmap, Network Traffic Analysis, Evidence Preservation |
-| **Systems & Infrastructure** | Active Directory, Windows Server, Linux (Ubuntu/Debian), Access Control, Patching |
-| **Automation & Cloud** | Python, Bash, PowerShell, GCP (VPC, IAM), Terraform |
+| **Systems & Infrastructure** | Active Directory, Windows Server, Linux (Ubuntu/Debian), Access Control (PoLP) |
+| **Automation & Cloud** | Python 3, Bash, PowerShell, GCP (VPC, IAM), Terraform |
 
 ---
 
-## 🎓 Certifications
+### 🔎 Featured Security Projects
 
-- **CompTIA Security+ Certified**
-- **Google Cybersecurity Professional Certificate**
-- **Google IT Support Professional Certificate**
+* **[Active Directory Security Log Parser](https://github.com/hnmasiya/ad-security-log-parser)**  
+  *Python security tooling focused on Windows Security Event Log analysis and privileged group-change detection.*
+* **[Wazuh SIEM Detection Engineering](https://github.com/hnmasiya/wazuh-siem-detection-lab)**  
+  *Custom Wazuh detection rules mapped to the MITRE ATT&CK framework and log analysis.*
+* **[GCP Secure Multi-Tier VPC](https://github.com/hnmasiya/gcp-terraform-secure-vpc)**  
+  *Terraform-based cloud security architecture with strict IAM policies and firewall rules.*
+* **[Cybersecurity Evidence Repository](https://github.com/hnmasiya/cybersecurity-portfolio)**  
+  *Central repository hosting PCAP analysis, Nmap scans, OWASP assessments, and SPL/YARA rules.*
 
 ---
 
-## 💼 Professional Experience & Foundation
+### 🎓 Certifications
 
-- **Enterprise IT Operations (9+ Years):** Hands-on experience administering Windows enterprise environments, managing user access controls, enforcing security policies, troubleshooting network connectivity, and maintaining high infrastructure availability.
-- **Security Specialization (Independent Labs):** Practical, evidence-driven project development focused on threat detection, log correlation, script automation, and vulnerability assessment.
+* **CompTIA Security+ Certified**
+* **Google Cybersecurity Professional Certificate**
+* **Google IT Support Professional Certificate**
+
+---
+
+### 📈 GitHub Profile Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hnmasiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnmasiya&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>

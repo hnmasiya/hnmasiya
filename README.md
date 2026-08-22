@@ -52,16 +52,44 @@ Combines broad systems engineering experience with independently developed, evid
 
 ---
 
-### 🔎 Featured Security Projects
+### 🔎 Featured Security Projects & Codebases
 
 * **[Active Directory Security Log Parser](https://github.com/hnmasiya/ad-security-log-parser)**  
-  *Python security tooling focused on Windows Security Event Log analysis and privileged group-change detection.*
+  *Python security tooling focused on Windows Security Event Log analysis (Event ID 4728, 4732, 4756) and privileged group-change detection.*
 * **[Wazuh SIEM Detection Engineering](https://github.com/hnmasiya/wazuh-siem-detection-lab)**  
-  *Custom Wazuh detection rules mapped to the MITRE ATT&CK framework and log analysis.*
+  *Custom Wazuh detection rules mapped to the MITRE ATT&CK framework, log analysis, and automated active responses.*
 * **[GCP Secure Multi-Tier VPC](https://github.com/hnmasiya/gcp-terraform-secure-vpc)**  
-  *Terraform-based cloud security architecture with strict IAM policies and firewall rules.*
+  *Terraform-based cloud security architecture with strict IAM policies, custom VPC firewall rules, and zero public ingress.*
 * **[Cybersecurity Evidence Repository](https://github.com/hnmasiya/cybersecurity-portfolio)**  
-  *Central repository hosting PCAP analysis, Nmap scans, OWASP assessments, and SPL/YARA rules.*
+  *Central repository hosting PCAP analysis, Nmap scans, OWASP assessments, and custom SPL/YARA detection signatures.*
+
+---
+
+### 🔍 Incident Investigation & SOC Write-Ups
+
+<details>
+<summary><b>1. Network Forensics: Wireshark PCAP Investigation (Click to Expand)</b></summary>
+
+* **Objective:** Identify cleartext credential exposure and malicious scanning activity across an enterprise subnetwork.
+* **Findings:** Identified unencrypted HTTP POST traffic transmitting user credentials (`Event ID: DFIR-0912`), isolated malicious port scans targeting port 445 (SMB) originating from host `192.168.1.105`.
+* **Remediation:** Enforced TLS 1.3 across web endpoints and implemented dynamic drop rules on the perimeter firewall.
+</details>
+
+<details>
+<summary><b>2. SIEM Triage: Brute-Force & Privilege Escalation Alerting (Click to Expand)</b></summary>
+
+* **Objective:** Investigate recurring Event ID 4625 (Failed Logon) spikes detected by Wazuh SIEM.
+* **Findings:** Traced 450+ failed Kerberos logon attempts in under 3 minutes targeting Domain Admin accounts, followed by a single successful Event ID 4624 login from an unmanaged internal host.
+* **Remediation:** Executed host isolation via Wazuh Active Response agent, reset domain admin credentials, and enabled MFA enforcement.
+</details>
+
+<details>
+<summary><b>3. Threat Hunting: YARA Signature Development for Web Shell Detection (Click to Expand)</b></summary>
+
+* **Objective:** Craft custom YARA rules to detect obfuscated PHP web shells deployed on compromised web servers.
+* **Findings:** Wrote a multi-string condition rule matching `eval(base64_decode(...))` and suspicious system calls (`system`, `passthru`, `exec`).
+* **Remediation:** Integrated YARA rule into endpoint detection scanners, preventing persistence on web infrastructure.
+</details>
 
 ---
 

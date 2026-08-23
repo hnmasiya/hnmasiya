@@ -143,6 +143,12 @@ These projects are presented accurately as **certificate coursework and practica
 - **Google AI Essentials**
 - **IBM SkillsBuild — Artificial Intelligence Fundamentals**
 - **GRC Fundamentals**
+- **Introduction to Cybersecurity** — Cisco
+- **Junior Cybersecurity Analyst Career Path** — Cisco
+- **Network Technician Career Path** — Cisco
+- **Lifelong Learning 2026** — Certiprof
+- **Cisco Networking Academy Learn-A-Thon 2026**
+- **Google Cybersecurity Certificate & CompTIA Security+ Dual Credential** — Coursera
 
 ---
 

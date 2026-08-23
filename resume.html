@@ -31,18 +31,18 @@
 
     <section>
         <h2>Professional Summary</h2>
-        <p>Results-driven <strong>Cybersecurity Engineer, Threat Hunter, and Incident Responder</strong> with extensive hands-on expertise across multi-cloud security posture management, enterprise digital forensics and incident response (DFIR), detection engineering, and Active Directory hygiene. Proven ability to architect comprehensive security pipelines, author precision Sigma rules and Splunk SIEM hunting logic, and execute rapid containment strategies against modern threat actors. Adept at bridging offensive security perspectives with rigorous defensive engineering to safeguard complex enterprise and containerized environments.</p>
+        <p>Cybersecurity Engineer, Threat Hunter, and Incident Responder with hands-on lab experience across multi-cloud security posture management, digital forensics and incident response (DFIR), Wazuh detection engineering, and Active Directory hygiene. Builds reproducible security pipelines, MITRE ATT&CK-mapped detection logic, and documented incident-containment playbooks. Bridges offensive security reconnaissance with defensive engineering across enterprise and cloud environments.</p>
     </section>
 
     <section>
         <h2>Core Technical Competencies</h2>
         <ul>
-            <li><strong>Security Information & Event Management (SIEM):</strong> Splunk Enterprise Security, AWS CloudTrail, AWS Athena, Log Analysis</li>
-            <li><strong>Digital Forensics & Incident Response (DFIR):</strong> Volatility 3, AVML, Wireshark, Volatile Memory Triage, Ransomware Containment SOPs</li>
-            <li><strong>Detection & Threat Hunting:</strong> Sigma Rule Authoring, MITRE ATT&CK Mapping, IOC Integration, Namespace Escape Detection</li>
-            <li><strong>Cloud Security & CSPM:</strong> Prowler, AWS IAM, CIS Benchmarks, S3 Bucket Security, Least-Privilege Access Controls</li>
+            <li><strong>Security Information & Event Management (SIEM):</strong> Wazuh, AWS CloudTrail, AWS Athena, Log Analysis</li>
+            <li><strong>Digital Forensics & Incident Response (DFIR):</strong> Volatility 3, Wireshark, Volatile Memory Triage, Ransomware Containment SOPs</li>
+            <li><strong>Detection & Threat Hunting:</strong> Wazuh Custom Rule Authoring, MITRE ATT&CK Mapping, IOC Extraction & Timeline Correlation</li>
+            <li><strong>Cloud Security & CSPM:</strong> Prowler, AWS IAM, S3 Bucket Security, Least-Privilege Access Controls</li>
             <li><strong>Application Security & DevSecOps:</strong> SAST/SCA Pipeline Auditing, Vulnerability Assessment, Code Security Reviews</li>
-            <li><strong>Offensive Security & Red Teaming:</strong> Network Enumeration, Metasploit, Nmap, BloodHound AD Auditing</li>
+            <li><strong>Offensive Security & Reconnaissance:</strong> Network Enumeration, Nmap, Web Application Testing (DVWA, OWASP Juice Shop)</li>
             <li><strong>Enterprise Security & Infrastructure:</strong> Active Directory Hygiene, Kerberoasting Remediation, RC4/AES Encryption Enforcement</li>
             <li><strong>Scripting & Automation:</strong> Python, Bash, SQL, Git Version Control</li>
         </ul>
@@ -52,39 +52,39 @@
         <h2>Technical Portfolio & Capstone Projects</h2>
         <p><strong>Enterprise Cybersecurity Portfolio & Master Repository</strong> | <em><a href="https://github.com/hnmasiya/cybersecurity-portfolio" target="_blank">View GitHub Repository</a></em></p>
         <ul>
-            <li>Engineered an industry-grade, multi-domain master repository documenting hands-on labs, playbooks, and security artifacts across <strong>9 core security pillars</strong>.</li>
-            <li>Established automated version-controlled pipelines, structured directory hierarchies, and standardized documentation templates for enterprise-wide security assessments.</li>
+            <li>Built a multi-domain master repository documenting hands-on labs, playbooks, and security artifacts across <strong>8 core security pillars</strong>.</li>
+            <li>Established version-controlled pipelines, structured directory hierarchies, and standardized documentation templates for security assessments.</li>
         </ul>
 
         <div class="project-category">
             <h3>1. Windows Forensics & Memory Analysis</h3>
             <ul>
-                <li>Performed deep-dive volatile memory acquisitions and analysis using <strong>Volatility 3</strong> to investigate complex endpoint compromises, including LockBit ransomware variants.</li>
-                <li>Analyzed suspicious process trees, injected DLLs, and registry hives to trace execution chains and map malicious activities back to specific MITRE ATT&CK techniques.</li>
+                <li>Performed volatile memory acquisition and analysis using <strong>Volatility 3</strong> on a lab endpoint compromise, confirming a LockBit ransomware variant execution chain via DLL injection and process hollowing.</li>
+                <li>Analyzed process trees and injected DLLs to trace execution chains and map malicious activity to specific MITRE ATT&CK techniques.</li>
             </ul>
         </div>
 
         <div class="project-category">
-            <h3>2. Linux & Container DFIR</h3>
+            <h3>2. Linux Forensics & DFIR</h3>
             <ul>
-                <li>Investigated advanced container escape techniques and namespace manipulation (e.g., <code>nsenter</code> abuse targeting PID 1 namespace boundaries).</li>
-                <li>Acquired volatile memory snapshots from Linux nodes using <strong>AVML</strong> and authored custom <strong>Sigma rules</strong> to detect rogue container privilege escalations and runtime anomalies.</li>
+                <li>Ran an evidence-backed Linux DFIR workflow — acquisition, integrity verification, timeline analysis, IOC extraction, and MITRE ATT&CK mapping — against synthetic SSH authentication and privileged-command artifacts.</li>
+                <li>Extracted indicators of compromise and correlated event timelines to reconstruct suspicious authentication activity.</li>
             </ul>
         </div>
 
         <div class="project-category">
             <h3>3. Cloud Security Posture Management (CSPM) & IAM Audits</h3>
             <ul>
-                <li>Conducted automated cloud infrastructure security audits against <strong>CIS AWS Benchmarks</strong> utilizing <strong>Prowler</strong>.</li>
-                <li>Mitigated high-risk public S3 bucket exposures, disabled overly permissive wildcard actions, and engineered least-privilege JSON <strong>IAM policies</strong> to harden cloud service accounts.</li>
+                <li>Conducted automated cloud infrastructure security audits using <strong>Prowler</strong> against AWS environments.</li>
+                <li>Reviewed public S3 bucket exposure and overly permissive policy actions, and engineered least-privilege JSON <strong>IAM policies</strong> to harden cloud service accounts.</li>
             </ul>
         </div>
 
         <div class="project-category">
             <h3>4. Threat Hunting & Detection Engineering</h3>
             <ul>
-                <li>Developed production-grade hunting queries in <strong>Splunk SIEM</strong> and correlation rules mapped directly to the <strong>MITRE ATT&CK framework</strong>.</li>
-                <li>Designed telemetry pipelines to aggregate endpoint, network, and cloud logs for proactive identification of lateral movement and command-and-control (C2) callback patterns.</li>
+                <li>Authored and offline-validated custom <strong>Wazuh</strong> detection rules against controlled synthetic authentication events, with results mapped to the <strong>MITRE ATT&CK framework</strong>.</li>
+                <li>Built a Python validation harness to test detection logic deterministically ahead of live deployment.</li>
             </ul>
         </div>
     </section>
@@ -96,32 +96,32 @@
         <div class="project-category">
             <h3>5. Application Security (AppSec & DevSecOps)</h3>
             <ul>
-                <li>Integrated Static Application Security Testing (SAST) and Software Composition Analysis (SCA) tooling into continuous integration pipelines to identify vulnerable dependencies and insecure code patterns prior to deployment.</li>
-                <li>Conducted manual code reviews to remediate input validation flaws, hardcoded credentials, and insecure cryptographic implementations.</li>
+                <li>Integrated Static Application Security Testing (SAST) and Software Composition Analysis (SCA) tooling into a pipeline to identify vulnerable dependencies and insecure code patterns.</li>
+                <li>Conducted code reviews to identify input validation flaws, hardcoded credentials, and insecure cryptographic implementations.</li>
             </ul>
         </div>
 
         <div class="project-category">
             <h3>6. Offensive Security & Penetration Testing</h3>
             <ul>
-                <li>Performed structured reconnaissance, port scanning, and service enumeration using <strong>Nmap</strong> and vulnerability validation via <strong>Metasploit</strong> in controlled lab environments.</li>
-                <li>Analyzed attack surface exposures to better understand adversary tactics, techniques, and procedures (TTPs), directly improving defensive detection coverage.</li>
+                <li>Performed structured reconnaissance, port scanning, and service enumeration using <strong>Nmap</strong> in a controlled lab environment, identifying an unpatched Apache Struts instance and exploiting an OGNL evaluation flaw for remote code execution.</li>
+                <li>Documented the full attack chain — enumeration, exploitation, and post-exploitation token harvesting — to inform detection coverage.</li>
             </ul>
         </div>
 
         <div class="project-category">
             <h3>7. Enterprise Security & Active Directory Hygiene</h3>
             <ul>
-                <li>Audited Active Directory Domain Controllers for legacy misconfigurations, including Kerberoastable service principal names and weak RC4 encryption standards.</li>
-                <li>Enforced modern cryptographic baselines (AES-256), secured group policy objects (GPOs), and mapped attack paths using <strong>BloodHound</strong> to neutralize internal privilege escalation vectors.</li>
+                <li>Audited a lab Active Directory domain and identified service accounts vulnerable to Kerberoasting via weak RC4 encryption on their SPNs, plus accounts exposed to AS-REP roasting.</li>
+                <li>Remediated by forcing AES-256 encryption across domain controllers and disabling Kerberos pre-authentication exemptions.</li>
             </ul>
         </div>
 
         <div class="project-category">
             <h3>8. Incident Response Playbooks & SOPs</h3>
             <ul>
-                <li>Authored end-to-end enterprise Incident Response Playbooks (e.g., <code>IR-PB-001: Enterprise Ransomware Containment</code>) establishing clear Standard Operating Procedures.</li>
-                <li>Outlined step-by-step alert triggers, EDR-driven network containment, volatile memory preservation, process termination, C2 perimeter blocking, and immutable backup restoration workflows.</li>
+                <li>Authored an enterprise Incident Response Playbook (<code>IR-PB-001: Enterprise Ransomware Containment</code>) covering a ransomware and extortion outbreak scenario.</li>
+                <li>Outlined alert triggers, network containment, volatile memory preservation, process termination, and backup restoration workflows.</li>
             </ul>
         </div>
     </section>
@@ -131,8 +131,8 @@
         <h3>Security Engineering & DFIR Lab Practitioner</h3>
         <p><em>Independent Research & Portfolio Development</em></p>
         <ul>
-            <li>Designed and executed advanced adversary simulation labs to test detection capabilities across hybrid cloud and on-premise environments.</li>
-            <li>Created comprehensive technical documentation, playbooks, and detection rules shared publicly through professional GitHub repositories to support community threat intelligence.</li>
+            <li>Designed and documented security labs across DFIR, cloud security, detection engineering, and Active Directory hygiene, using synthetic and controlled test data throughout.</li>
+            <li>Published technical documentation, playbooks, and detection rules through public GitHub repositories.</li>
         </ul>
     </section>
 
@@ -140,7 +140,7 @@
         <h2>Education & Certifications</h2>
         <ul>
             <li><strong>Core Focus Areas:</strong> Threat Intelligence, Incident Response, Cloud Architecture Security, Detection Engineering</li>
-            <li><strong>Continuous Learning:</strong> Active participant in hands-on security challenges, CTFs, and collaborative open-source security projects.</li>
+            <li><strong>Continuous Learning:</strong> Active participant in hands-on security challenges and collaborative open-source security projects.</li>
         </ul>
     </section>
 

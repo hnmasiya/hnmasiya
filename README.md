@@ -6,7 +6,7 @@
 
 **Enterprise IT Professional | CompTIA Security+ | Google Cybersecurity**
 
-9+ years of hands-on enterprise IT experience supporting Windows environments, infrastructure, access control, endpoint security, system hardening, troubleshooting, and business-critical operations — now focused on cybersecurity, security operations, detection, investigation, and automation.
+12+ years of hands-on enterprise IT experience supporting Windows environments, infrastructure, access control, endpoint security, system hardening, troubleshooting, and business-critical operations — now focused on cybersecurity, security operations, detection, investigation, and automation.
 
 <br>
 
@@ -20,7 +20,7 @@
 
 ## Profile
 
-I am an **enterprise IT professional specializing in cybersecurity**, bringing 9+ years of practical experience across Windows environments, infrastructure operations, access control, system hardening, endpoint protection, patch management, backup and recovery, and business-critical technical support.
+I am an **enterprise IT professional specializing in cybersecurity**, bringing 12+ years of practical experience across Windows environments, infrastructure operations, access control, system hardening, endpoint protection, patch management, backup and recovery, and business-critical technical support.
 
 My cybersecurity work builds on that infrastructure foundation and focuses on **security operations, security monitoring, log analysis, detection, incident investigation, network security, vulnerability assessment, cloud security, and automation**.
 
@@ -163,7 +163,7 @@ I aim to produce security work that is:
 
 # Professional Background
 
-### 9+ Years of Enterprise IT Operations
+### 12+ Years of Enterprise IT Operations
 
 My infrastructure experience includes hands-on work with:
 

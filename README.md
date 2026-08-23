@@ -139,6 +139,10 @@ These projects are presented accurately as **certificate coursework and practica
 - **CompTIA Security+**
 - **Google Cybersecurity Professional Certificate**
 - **Google IT Support Professional Certificate**
+- **ICSI | CNSS Certified Network Security Specialist**
+- **Google AI Essentials**
+- **IBM SkillsBuild — Artificial Intelligence Fundamentals**
+- **GRC Fundamentals**
 
 ---
 

@@ -10,7 +10,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-masiya--hub.org-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masiya-hub.org/)
+<a href="https://masiya-hub.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-masiya--hub.org-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazvinei-masiya/)
 [![GitHub](https://img.shields.io/badge/GitHub-hnmasiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
 
@@ -205,6 +205,6 @@ Currently targeting opportunities in:
 
 ### Explore the full technical portfolio
 
-**[masiya-hub.org →](https://masiya-hub.org/)**
+<a href="https://masiya-hub.org/" target="_blank" rel="noopener noreferrer"><strong>masiya-hub.org →</strong></a>
 
 </div>

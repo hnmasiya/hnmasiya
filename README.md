@@ -6,11 +6,11 @@
 
 **Enterprise IT Professional | CompTIA Security+ | Google Cybersecurity**
 
-12+ years of professional IT experience supporting Windows environments, infrastructure, access control, endpoint security, system hardening, troubleshooting, and business-critical operations — now focused on cybersecurity, security operations, detection, investigation, and automation.
+12+ years of professional IT experience supporting Windows environments, infrastructure, access control, endpoint security, system hardening, troubleshooting, and business-critical operations - now focused on cybersecurity, security operations, detection, investigation, and automation.
 
 <br>
 
-<a href="https://masiya-hub.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-masiya--hub.org-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-masiya--hub.org-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masiya-hub.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazvinei-masiya/)
 [![GitHub](https://img.shields.io/badge/GitHub-hnmasiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
 
@@ -139,20 +139,20 @@ These projects are presented accurately as **certificate coursework and practica
 - **Google IT Support Professional Certificate**
 - **ICSI | CNSS Certified Network Security Specialist**
 - **Google AI Essentials**
-- **IBM SkillsBuild — Artificial Intelligence Fundamentals**
+- **IBM SkillsBuild - Artificial Intelligence Fundamentals**
 - **GRC Fundamentals**
-- **Introduction to Cybersecurity** — Cisco
-- **Junior Cybersecurity Analyst Career Path** — Cisco
-- **Network Technician Career Path** — Cisco
-- **Lifelong Learning 2026** — Certiprof
+- **Introduction to Cybersecurity** - Cisco
+- **Junior Cybersecurity Analyst Career Path** - Cisco
+- **Network Technician Career Path** - Cisco
+- **Lifelong Learning 2026** - Certiprof
 - **Cisco Networking Academy Learn-A-Thon 2026**
-- **Google Cybersecurity Certificate & CompTIA Security+ Dual Credential** — Coursera
+- **Google Cybersecurity Certificate & CompTIA Security+ Dual Credential** - Coursera
 
 ---
 
 # Security Engineering Approach
 
-**Understand → Identify → Protect → Detect → Investigate → Remediate**
+**Understand -> Identify -> Protect -> Detect -> Investigate -> Remediate**
 
 I aim to produce security work that is:
 
@@ -205,6 +205,6 @@ Currently targeting opportunities in:
 
 ### Explore the full technical portfolio
 
-<a href="https://masiya-hub.org/" target="_blank" rel="noopener noreferrer"><strong>masiya-hub.org →</strong></a>
+[masiya-hub.org ->](https://masiya-hub.org/)
 
 </div>

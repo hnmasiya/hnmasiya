@@ -6,7 +6,7 @@
 
 **Enterprise IT Professional | CompTIA Security+ | Google Cybersecurity**
 
-12+ years of professional IT experience supporting Windows environments, infrastructure, access control, endpoint security, system hardening, troubleshooting, and business-critical operations - now focused on cybersecurity, security operations, detection, investigation, and automation.
+12+ years of professional IT experience supporting Windows environments, infrastructure, access control, endpoint security, system hardening, troubleshooting, and business-critical operations — now focused on cybersecurity, security operations, detection, investigation, and automation.
 
 <br>
 
@@ -54,45 +54,34 @@ I build and document hands-on security projects to demonstrate technical investi
 
 ---
 
-# Featured Security Engineering Projects
+# Featured Security Portfolio
 
-## 🛡️ Active Directory Security Log Parser
+## 🛡️ Cybersecurity Technical Portfolio — Primary
 
-Python-based security analysis for Windows / Active Directory event data.
+The central evidence repository containing the full cybersecurity journey: SOC operations, Wazuh, Windows/Sysmon/Active Directory, detection engineering, attack simulation, incident investigation, network and web security, cloud security, automation, AppSec/DevSecOps, reports, screenshots and retained evidence.
 
-**Focus:** Windows security events · log parsing · security analysis · Python automation
+**Primary recruiter-facing portfolio:** [View Technical Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)
 
-[View Repository](https://github.com/hnmasiya/ad-security-log-parser)
+### Flagship evidence
 
----
-
-## 🔎 Wazuh SIEM Detection Lab
-
-Hands-on SIEM monitoring and detection environment demonstrating security-event analysis and investigation workflows.
-
-**Focus:** Wazuh · SIEM · security monitoring · detection · log analysis · investigation
-
-[View Repository](https://github.com/hnmasiya/wazuh-siem-detection-lab)
-
----
-
-## ☁️ GCP Secure VPC with Terraform
-
-Cloud-security infrastructure project demonstrating secure Google Cloud networking and infrastructure-as-code practices.
-
-**Focus:** Google Cloud · VPC · network architecture · segmentation · Terraform · cloud security
-
-[View Repository](https://github.com/hnmasiya/gcp-terraform-secure-vpc)
+- Windows → Sysmon → Wazuh live detection chain
+- Attack Simulation & Detection Engineering — 6 of 6 Linux/Windows combinations evidence-backed
+- LSASS process-access investigation mapped to MITRE ATT&CK T1003.001
+- SOC alert triage and automation
+- Network and PCAP analysis
+- Active Directory security
+- Cloud and infrastructure security
+- AppSec and DevSecOps
 
 ---
 
-## 🧪 Cybersecurity Technical Portfolio
+## 🔎 Focused Companion Projects
 
-Central collection of cybersecurity labs, assessments, investigations, security exercises, and technical documentation.
+These repositories are intentionally lightweight companion projects. The main `cybersecurity-portfolio` repository is the authoritative, recruiter-facing evidence collection.
 
-The portfolio distinguishes **certificate coursework from independently developed security projects** and emphasizes evidence, technical reasoning, investigation methodology, and remediation.
-
-[View Technical Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)
+- [Active Directory Security Log Parser](https://github.com/hnmasiya/ad-security-log-parser) — focused Python/Event ID 4728 analysis.
+- [Wazuh SIEM Detection Lab](https://github.com/hnmasiya/wazuh-siem-detection-lab) — focused detection-engineering concept and rules.
+- [GCP Secure VPC with Terraform](https://github.com/hnmasiya/gcp-terraform-secure-vpc) — focused secure-VPC IaC design.
 
 ---
 
@@ -152,7 +141,7 @@ These projects are presented accurately as **certificate coursework and practica
 
 # Security Engineering Approach
 
-**Understand -> Identify -> Protect -> Detect -> Investigate -> Remediate**
+**Understand → Identify → Protect → Detect → Investigate → Remediate**
 
 I aim to produce security work that is:
 
@@ -195,16 +184,6 @@ Currently targeting opportunities in:
 
 ---
 
-## 📫 Contact
+## Explore the full technical portfolio
 
-**Email:** [norman.masiya@gmail.com](mailto:norman.masiya@gmail.com)
-
----
-
-<div align="center">
-
-### Explore the full technical portfolio
-
-[masiya-hub.org ->](https://masiya-hub.org/)
-
-</div>
+[masiya-hub.org →](https://masiya-hub.org/)

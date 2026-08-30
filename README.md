@@ -6,12 +6,12 @@
 
 **Enterprise IT Professional | CompTIA Security+ | Google Cybersecurity**
 
-12+ years of hands-on enterprise IT experience supporting Windows environments, infrastructure, access control, endpoint security, system hardening, troubleshooting, and business-critical operations — now focused on cybersecurity, security operations, detection, investigation, and automation.
+12+ years of professional IT experience supporting Windows environments, infrastructure, access control, endpoint security, system hardening, troubleshooting, and business-critical operations — now focused on cybersecurity, security operations, detection, investigation, and automation.
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-masiya--hub.org-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masiya-hub.org/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazvinei-masiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazvinei-masiya/)
 [![GitHub](https://img.shields.io/badge/GitHub-hnmasiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya)
 
 </div>
@@ -197,6 +197,13 @@ Currently targeting opportunities in:
 
 ---
 
+## 📫 Contact
+
+**Email:** [norman.masiya@gmail.com](mailto:norman.masiya@gmail.com)  
+**LinkedIn:** [linkedin.com/in/hazvinei-masiya](https://www.linkedin.com/in/hazvinei-masiya/)
+
+---
+
 <div align="center">
 
 ### Explore the full technical portfolio
@@ -205,6 +212,6 @@ Currently targeting opportunities in:
 
 <br>
 
-[LinkedIn](https://linkedin.com/in/hazvinei-masiya) · [GitHub](https://github.com/hnmasiya)
+[LinkedIn](https://www.linkedin.com/in/hazvinei-masiya/) · [GitHub](https://github.com/hnmasiya) · [Email](mailto:norman.masiya@gmail.com)
 
 </div>

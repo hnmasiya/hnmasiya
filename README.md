@@ -24,7 +24,7 @@ I am an **enterprise IT professional specializing in cybersecurity**, bringing 1
 
 My cybersecurity work builds on that infrastructure foundation and focuses on **security operations, security monitoring, log analysis, detection, incident investigation, network security, vulnerability assessment, cloud security, and automation**.
 
-I build and document hands-on security projects to demonstrate how I approach technical investigation, secure configuration, detection engineering, evidence collection, analysis, and remediation.
+I build and document hands-on security projects to demonstrate technical investigation, secure configuration, detection engineering, evidence collection, analysis, and remediation.
 
 ### Career Focus
 
@@ -58,7 +58,7 @@ I build and document hands-on security projects to demonstrate how I approach te
 
 ## 🛡️ Active Directory Security Log Parser
 
-A Python-based security analysis project focused on parsing and analyzing security-relevant Windows / Active Directory event data.
+Python-based security analysis for Windows / Active Directory event data.
 
 **Focus:** Windows security events · log parsing · security analysis · Python automation
 
@@ -68,7 +68,7 @@ A Python-based security analysis project focused on parsing and analyzing securi
 
 ## 🔎 Wazuh SIEM Detection Lab
 
-A hands-on security monitoring and detection environment demonstrating SIEM-based analysis, security-event monitoring, and investigation workflows.
+Hands-on SIEM monitoring and detection environment demonstrating security-event analysis and investigation workflows.
 
 **Focus:** Wazuh · SIEM · security monitoring · detection · log analysis · investigation
 
@@ -78,7 +78,7 @@ A hands-on security monitoring and detection environment demonstrating SIEM-base
 
 ## ☁️ GCP Secure VPC with Terraform
 
-A cloud-security infrastructure project using Terraform to demonstrate secure Google Cloud networking and infrastructure-as-code practices.
+Cloud-security infrastructure project demonstrating secure Google Cloud networking and infrastructure-as-code practices.
 
 **Focus:** Google Cloud · VPC · network architecture · segmentation · Terraform · cloud security
 
@@ -88,7 +88,7 @@ A cloud-security infrastructure project using Terraform to demonstrate secure Go
 
 ## 🧪 Cybersecurity Technical Portfolio
 
-A structured collection of cybersecurity labs, assessments, investigations, security exercises, and technical documentation.
+Central collection of cybersecurity labs, assessments, investigations, security exercises, and technical documentation.
 
 The portfolio distinguishes **certificate coursework from independently developed security projects** and emphasizes evidence, technical reasoning, investigation methodology, and remediation.
 
@@ -107,8 +107,6 @@ Hands-on security exercises completed as part of the **Google Cybersecurity Prof
 - Network traffic analysis with Wireshark
 
 These projects are presented accurately as **certificate coursework and practical learning evidence**, rather than professional client engagements.
-
-[Explore the Portfolio](https://masiya-hub.org/)
 
 ---
 
@@ -199,8 +197,7 @@ Currently targeting opportunities in:
 
 ## 📫 Contact
 
-**Email:** [norman.masiya@gmail.com](mailto:norman.masiya@gmail.com)  
-**LinkedIn:** [linkedin.com/in/hazvinei-masiya](https://www.linkedin.com/in/hazvinei-masiya/)
+**Email:** [norman.masiya@gmail.com](mailto:norman.masiya@gmail.com)
 
 ---
 
@@ -209,9 +206,5 @@ Currently targeting opportunities in:
 ### Explore the full technical portfolio
 
 **[masiya-hub.org →](https://masiya-hub.org/)**
-
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/hazvinei-masiya/) · [GitHub](https://github.com/hnmasiya) · [Email](mailto:norman.masiya@gmail.com)
 
 </div>

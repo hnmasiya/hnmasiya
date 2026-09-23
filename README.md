@@ -1,77 +1,85 @@
 <div align="center">
 
-# Hazvinei Nomatter Masiya
+# HAZVINEI NOMATTER MASIYA
 
 ### Cybersecurity Analyst · SOC Operations · Detection Engineering · DFIR · Security Automation
 
-**12+ Years Enterprise IT | CompTIA Security+ Certified | BSc Computer Science — In Progress**
+**12+ Years Enterprise IT · CompTIA Security+ Certified · BSc Computer Science — In Progress**
 
-Hands-on cybersecurity work built on an enterprise IT/infrastructure foundation across **Windows, Active Directory, access control, endpoint security, system hardening, network operations and business-critical support**.
-
-[![Technical Portfolio](https://img.shields.io/badge/Technical_Portfolio-masiya--hub.org-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masiya-hub.org/)
-[![GitHub Portfolio](https://img.shields.io/badge/GitHub-Cybersecurity_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya/cybersecurity-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-masiya--hub.org-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masiya-hub.org/)
+[![Cybersecurity Portfolio](https://img.shields.io/badge/GitHub-Cybersecurity%20Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya/cybersecurity-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazvinei-masiya/)
 
 </div>
 
 ---
 
-## 🎯 Recruiter Quick View
+## 👋 Professional Snapshot
 
-I am transitioning from **enterprise IT and infrastructure operations into cybersecurity**, with a practical focus on:
+I am an **enterprise IT professional transitioning into cybersecurity**, combining 12+ years of infrastructure and systems experience with hands-on security work across **SOC operations, detection engineering, DFIR, network security, cloud security and automation**.
 
-- **SOC / Security Operations** — Wazuh, Windows/Sysmon telemetry, alert triage and security-event analysis
-- **Detection Engineering** — custom Wazuh rules, attack simulation, validation and MITRE ATT&CK mapping
-- **DFIR / Incident Response** — investigation workflows, evidence handling, IOC extraction and forensic analysis
-- **Windows / Active Directory Security** — authentication events, privilege monitoring, least privilege and hardening
-- **Network Security** — Nmap, Wireshark/tshark, PCAP analysis and reconnaissance
-- **Cloud Security** — GCP, Terraform, IAM and VPC security architecture
-- **Security Automation** — Python, Bash and PowerShell security workflows
+My portfolio separates **professional experience, independent authorized labs, coursework and virtual job simulations** so reviewers can see exactly what each piece of evidence represents.
 
-## 🛡️ Flagship Security Evidence
+> **Security workflow:** Understand → Identify → Protect → Detect → Investigate → Remediate → Validate
 
-### Cybersecurity Technical Portfolio — Primary
+---
 
-**[→ Open the full cybersecurity portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)**
+## 🛡️ Cybersecurity Evidence Hubs
 
-The primary recruiter-facing evidence repository covering SOC operations, Wazuh, Windows/Sysmon/Active Directory, detection engineering, incident response, DFIR, network security, cloud security, application security and automation.
-
-**Featured evidence includes:**
-
-- Windows → Sysmon → Wazuh detection and investigation workflows
-- Attack simulation and detection-engineering validation
-- LSASS process-access investigation mapped to **MITRE ATT&CK T1003.001**
-- SOC alert triage and security-event analysis
-- Network and PCAP analysis
-- Active Directory security scenarios
-- GCP/Terraform security architecture
-- AppSec and DevSecOps work
-
-## 🔎 Focused Companion Projects
-
-These smaller repositories provide focused examples while the main portfolio remains the authoritative evidence collection.
-
-| Project | Focus |
+| Focus | Entry point |
 |---|---|
-| **[Active Directory Security Log Parser](https://github.com/hnmasiya/ad-security-log-parser)** | Python/Event ID 4728 security-log analysis |
-| **[Wazuh SIEM Detection Lab](https://github.com/hnmasiya/wazuh-siem-detection-lab)** | Wazuh detection engineering and MITRE ATT&CK |
-| **[GCP Secure VPC with Terraform](https://github.com/hnmasiya/gcp-terraform-secure-vpc)** | Cloud security, IAM, VPC and IaC |
+| 🛡️ **SOC Operations** | [Wazuh, Windows/Sysmon, alert triage & investigation](https://masiya-hub.org/soc-analyst.html) |
+| 🎯 **Detection Engineering** | [Detection logic, validation & MITRE ATT&CK](https://masiya-hub.org/detection-engineering.html) |
+| 🔎 **DFIR / Incident Response** | [Forensics, evidence handling & IOC analysis](https://masiya-hub.org/dfir-incident-response.html) |
+| 🌐 **Network Security** | [Nmap, Wireshark, PCAP & traffic analysis](https://masiya-hub.org/network-security.html) |
 
-## 🧰 Technical Toolkit
+### Primary technical repository
 
-**SOC / Detection:** Wazuh · Sysmon · Security Monitoring · Log Analysis · Threat Detection · MITRE ATT&CK
+**[→ Open the Cybersecurity Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)**
 
-**DFIR / Investigation:** Incident Response · Evidence Preservation · IOC Analysis · Forensic Analysis · Threat Hunting
+The repository is the authoritative technical evidence collection, with source-linked documentation, lab evidence, validation notes and automation.
 
-**Windows / Identity:** Windows Server · Active Directory · PowerShell · Access Control · Least Privilege · System Hardening
+---
 
-**Network Security:** Wireshark · tshark · Nmap · TCP/IP · Network Segmentation · PCAP Analysis
+## ⚡ Core Capabilities
 
-**Application / DevSecOps:** Burp Suite · OWASP · DVWA · OWASP Juice Shop · SAST · Security Validation
+**SOC / Detection**  
+Wazuh · Sysmon · Security Monitoring · Log Analysis · Alert Triage · MITRE ATT&CK
 
-**Cloud / IaC:** Google Cloud Platform · Terraform · VPC · IAM · Infrastructure as Code
+**DFIR / Investigation**  
+Incident Response · Evidence Preservation · IOC Analysis · Forensic Analysis · Threat Hunting
 
-**Automation:** Python · Bash · PowerShell · Security Log Parsing · Automated Validation
+**Windows / Identity**  
+Windows Server · Active Directory · PowerShell · Access Control · Least Privilege · Hardening
+
+**Network Security**  
+Wireshark · tshark · Nmap · TCP/IP · PCAP Analysis
+
+**Application / DevSecOps**  
+Burp Suite · OWASP · DVWA · OWASP Juice Shop · SAST · Security Validation
+
+**Cloud / IaC**  
+GCP · Terraform · VPC · IAM · Infrastructure as Code
+
+**Automation**  
+Python · Bash · PowerShell · Security Log Parsing · Automated Validation
+
+---
+
+## 🧪 Selected Technical Evidence
+
+- **Windows → Sysmon → Wazuh** detection and investigation workflows
+- **Attack simulation & detection engineering** with controlled validation and ATT&CK mapping
+- **LSASS process-access investigation** mapped to MITRE ATT&CK T1003.001
+- **SOC alert triage** and security-event analysis
+- **Linux and Windows forensic investigations**
+- **Network reconnaissance and PCAP analysis**
+- **Active Directory security** and privilege-monitoring scenarios
+- **GCP/Terraform security architecture**
+- **Application security and DevSecOps** exercises
+- **Python/Bash/PowerShell security automation**
+
+---
 
 ## 🎓 Credentials
 
@@ -84,34 +92,25 @@ These smaller repositories provide focused examples while the main portfolio rem
 - **GRC Fundamentals**
 - Cisco cybersecurity credentials and career-path training
 
-## 🧪 Evidence Philosophy
-
-My technical work is designed to be:
-
-**Evidence-based → Reproducible → Technically defensible → Clearly documented → Honest about scope**
-
-I explicitly distinguish **professional experience, independent hands-on projects, coursework and virtual job simulations** rather than presenting simulated work as production or client experience.
+---
 
 ## 💼 Professional Foundation
 
-My 12+ years of enterprise IT experience includes:
+My enterprise IT foundation includes:
 
 - Windows environments and Windows Server
 - Active Directory and user access control
 - Least privilege and permissions management
 - Endpoint protection
 - System hardening and patch management
-- Infrastructure troubleshooting
 - Network and infrastructure operations
 - Business-critical technical support
 
-This foundation informs my cybersecurity approach:
+That background provides the operational context behind my security work: **environment awareness, access control, telemetry, troubleshooting, remediation and validation**.
 
-**Understand → Identify → Protect → Detect → Investigate → Remediate**
+---
 
-## 🚀 Career Focus
-
-Currently targeting:
+## 🎯 Career Focus
 
 **SOC Analyst · Security Operations Analyst · Cybersecurity Analyst · Detection Engineering · Incident Response · Threat Hunting · Security Automation · Junior Security Engineering**
 
@@ -119,6 +118,8 @@ Currently targeting:
 
 ---
 
-### Explore the evidence
+## 🌐 Connect
 
-**[🌐 masiya-hub.org](https://masiya-hub.org/)** · **[💻 GitHub](https://github.com/hnmasiya)** · **[🔐 Cybersecurity Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)** · **[💼 LinkedIn](https://www.linkedin.com/in/hazvinei-masiya/)**
+**[Portfolio](https://masiya-hub.org/)** · **[Cybersecurity Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)** · **[LinkedIn](https://www.linkedin.com/in/hazvinei-masiya/)**
+
+<sub>Evidence is presented with explicit scope and limitations. Authorized testing only.</sub>

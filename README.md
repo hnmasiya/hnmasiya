@@ -28,7 +28,7 @@ My security work is **evidence-first**: independent authorized labs, technical p
 
 | Area | Evidence hub |
 |---|---|
-| 🛡️ **SOC Operations** | [Wazuh · Windows/Sysmon · alert triage · investigation](https://masiya-hub.org/soc-analyst.html) |
+| 🛡️ **SOC Operations** | [Wazuh · Splunk · Windows/Sysmon · alert triage · investigation](https://masiya-hub.org/soc-analyst.html) |
 | 🎯 **Detection Engineering** | [Detection logic · validation · MITRE ATT&CK](https://masiya-hub.org/detection-engineering.html) |
 | 🔎 **DFIR / Incident Response** | [Forensics · evidence handling · IOC analysis](https://masiya-hub.org/dfir-incident-response.html) |
 | 🌐 **Network Security** | [Nmap · Wireshark · PCAP · traffic analysis](https://masiya-hub.org/network-security.html) |
@@ -45,7 +45,7 @@ The repository is the source of record for technical evidence, documentation, la
 
 | Domain | Focus | Technologies |
 |---|---|---|
-| **SOC / SIEM** | Monitoring, alert triage, log analysis | Wazuh · Sysmon · Windows Security |
+| **SOC / SIEM** | Monitoring, alert triage, log analysis, investigation | Wazuh · Splunk/SPL · Sysmon · Windows Security |
 | **Detection Engineering** | Rules, validation, attack simulation | Wazuh · Sigma · MITRE ATT&CK |
 | **DFIR / IR** | Evidence handling, forensics, IOC analysis | Volatility · AVML · Linux/Windows |
 | **Windows / Identity** | Authentication, privilege monitoring, hardening | Windows Server · AD · PowerShell |
@@ -58,6 +58,7 @@ The repository is the source of record for technical evidence, documentation, la
 
 ## 🧪 Selected Technical Evidence
 
+- **Splunk SOC Lab Track** — six connected labs covering SSH authentication hunting, Windows/Sysmon process investigation, web-attack investigation, SPL detection engineering, SOC monitoring/dashboarding, and end-to-end SOC investigation using controlled synthetic telemetry.
 - **Windows → Sysmon → Wazuh** detection and investigation workflows
 - **Attack simulation & detection engineering** with controlled validation and ATT&CK mapping
 - **SOC alert triage** and security-event analysis

@@ -2,7 +2,7 @@
 
 # HAZVINEI NOMATTER MASIYA
 
-### Cybersecurity Analyst · SOC Operations · Detection Engineering · DFIR · Security Automation
+### Cybersecurity Professional · SOC Operations · Detection Engineering · Incident Response · DFIR · Security Automation
 
 **12+ Years Enterprise IT · CompTIA Security+ Certified · BSc Computer Science — In Progress**
 
@@ -16,7 +16,7 @@
 
 ## 👋 Professional Snapshot
 
-Enterprise IT professional with **12+ years of experience** applying a systems, infrastructure and operations background to cybersecurity.
+CompTIA Security+ certified enterprise IT professional with **12+ years of experience** across systems, infrastructure, networking, access control, endpoint security and business-critical operations, deliberately applying that foundation to cybersecurity and security operations.
 
 My security work is **evidence-first**: independent authorized labs, technical projects, coursework and virtual job simulations are kept distinct, with supporting source material linked wherever possible.
 
@@ -124,7 +124,7 @@ This operational background informs the security work: **understand the environm
 
 **SOC Analyst · Security Operations Analyst · Cybersecurity Analyst**
 
-**Detection Engineering · Incident Response · Threat Hunting · Security Automation · Junior Security Engineering**
+**Detection Engineering · Incident Response · Threat Hunting · DFIR · Security Automation · Junior Security Engineering**
 
 **Open to international opportunities and relocation.**
 

@@ -14,6 +14,10 @@
 
 ---
 
+## 🔐 Portfolio Publication Model
+
+The public cybersecurity portfolio is published from a private development repository after automated security and quality validation. The public repository is maintained as a clean, recruiter-facing release artifact.
+
 ## 👋 Professional Snapshot
 
 CompTIA Security+ certified enterprise IT professional with **12+ years of experience** across systems, infrastructure, networking, access control, endpoint security and business-critical operations, deliberately applying that foundation to cybersecurity and security operations.

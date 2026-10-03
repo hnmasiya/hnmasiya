@@ -2,7 +2,7 @@
 
 # HAZVINEI NOMATTER MASIYA
 
-### Cybersecurity Professional · SOC Operations · Detection Engineering · Incident Response · DFIR · Security Automation
+### Cybersecurity Professional | Security Operations | Detection Engineering | Incident Response
 
 **12+ Years Enterprise IT · CompTIA Security+ Certified · BSc Computer Science — In Progress**
 

@@ -73,6 +73,30 @@ The repository is the source of record for technical evidence, documentation, la
 - **Application security and DevSecOps** exercises
 - **Python/Bash/PowerShell security automation**
 
+## 🎯 Virtual Cybersecurity Experience
+
+Completed third-party Forage simulations, kept explicitly separate from employment and independent technical labs:
+
+- **Mastercard Cybersecurity Job Simulation** — phishing simulation design and results analysis
+- **Datacom Cyber Security Operations Job Simulation** — simulated ransomware investigation and risk assessment
+- **Deloitte Australia Cyber Job Simulation** — web activity-log investigation and suspected breach analysis
+- **AIG Shields Up: Cybersecurity Job Simulation** — CISA threat analysis, remediation advisory and controlled ransomware-recovery exercise
+
+**Evidence hub:** [Forage simulations and case studies](https://masiya-hub.org/forage.html)
+
+
+
+- **Splunk SOC Lab Track** — six connected labs covering SSH authentication hunting, Windows/Sysmon process investigation, web-attack investigation, SPL detection engineering, SOC monitoring/dashboarding, and end-to-end SOC investigation using controlled synthetic telemetry.
+- **Windows → Sysmon → Wazuh** detection and investigation workflows
+- **Attack simulation & detection engineering** with controlled validation and ATT&CK mapping
+- **SOC alert triage** and security-event analysis
+- **Linux and Windows forensic investigations**
+- **Network reconnaissance and PCAP analysis**
+- **Active Directory security** and privilege-monitoring scenarios
+- **GCP/Terraform security architecture**
+- **Application security and DevSecOps** exercises
+- **Python/Bash/PowerShell security automation**
+
 ---
 
 ## 🎓 Credentials

@@ -84,19 +84,6 @@ Completed third-party Forage simulations, kept explicitly separate from employme
 
 **Evidence hub:** [Forage simulations and case studies](https://masiya-hub.org/forage.html)
 
-
-
-- **Splunk SOC Lab Track** — six connected labs covering SSH authentication hunting, Windows/Sysmon process investigation, web-attack investigation, SPL detection engineering, SOC monitoring/dashboarding, and end-to-end SOC investigation using controlled synthetic telemetry.
-- **Windows → Sysmon → Wazuh** detection and investigation workflows
-- **Attack simulation & detection engineering** with controlled validation and ATT&CK mapping
-- **SOC alert triage** and security-event analysis
-- **Linux and Windows forensic investigations**
-- **Network reconnaissance and PCAP analysis**
-- **Active Directory security** and privilege-monitoring scenarios
-- **GCP/Terraform security architecture**
-- **Application security and DevSecOps** exercises
-- **Python/Bash/PowerShell security automation**
-
 ---
 
 ## 🎓 Credentials

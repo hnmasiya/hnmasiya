@@ -90,7 +90,6 @@ Completed third-party Forage simulations, kept explicitly separate from employme
 
 **Security**
 - CompTIA Security+ (SY0-701) — **Certified**
-- ICSI | CNSS Certified Network Security Specialist
 - GRC Fundamentals
 - Cisco Junior Cybersecurity Analyst Career Path
 - Cisco Introduction to Cybersecurity

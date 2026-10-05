@@ -106,6 +106,8 @@ Completed third-party Forage simulations, kept explicitly separate from employme
 **Virtual Experience**
 - Mastercard Cybersecurity Job Simulation — Forage
 - Datacom Cyber Security Operations Job Simulation — Forage
+- Deloitte Australia Cyber Job Simulation — Forage
+- AIG Shields Up: Cybersecurity Job Simulation — Forage
 
 > Virtual job simulations are presented separately from employment and independent technical labs.
 

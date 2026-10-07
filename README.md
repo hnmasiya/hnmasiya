@@ -14,95 +14,82 @@
 
 ---
 
-## 🔐 Portfolio Publication Model
+## 🎯 Professional Positioning
 
-The public cybersecurity portfolio is published from a private development repository after automated security and quality validation. The public repository is maintained as a clean, recruiter-facing release artifact.
+CompTIA Security+ certified enterprise IT professional with **12+ years of experience** across systems, infrastructure, networking, access control, endpoint security and business-critical operations, now focused on **SOC operations, detection engineering, incident response/DFIR and security automation**.
 
-## 👋 Professional Snapshot
-
-CompTIA Security+ certified enterprise IT professional with **12+ years of experience** across systems, infrastructure, networking, access control, endpoint security and business-critical operations, deliberately applying that foundation to cybersecurity and security operations.
-
-My security work is **evidence-first**: independent authorized labs, technical projects, coursework and virtual job simulations are kept distinct, with supporting source material linked wherever possible.
+My portfolio is evidence-first: professional experience, authorized independent labs, coursework and virtual job simulations are clearly separated so recruiters can understand exactly what each project demonstrates.
 
 > **Security workflow:** Environment → Risk → Telemetry → Detection → Investigation → Remediation → Validation
+
+**Based in Zimbabwe · Open to international opportunities and relocation**
 
 ---
 
 ## 🧭 Start Here
 
-| Area | Evidence hub |
+| Area | Evidence |
 |---|---|
 | 🛡️ **SOC Operations** | [Wazuh · Splunk · Windows/Sysmon · alert triage · investigation](https://masiya-hub.org/soc-analyst.html) |
 | 🎯 **Detection Engineering** | [Detection logic · validation · MITRE ATT&CK](https://masiya-hub.org/detection-engineering.html) |
 | 🔎 **DFIR / Incident Response** | [Forensics · evidence handling · IOC analysis](https://masiya-hub.org/dfir-incident-response.html) |
 | 🌐 **Network Security** | [Nmap · Wireshark · PCAP · traffic analysis](https://masiya-hub.org/network-security.html) |
+| ☁️ **Cloud Security** | [GCP · Terraform · IAM · VPC security architecture](https://masiya-hub.org/) |
 
-### Primary technical repository
+### Primary Portfolio
 
-**[→ Open the Cybersecurity Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)**
+**[→ Cybersecurity Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)**
 
-The repository is the source of record for technical evidence, documentation, lab validation and security automation.
+A recruiter-facing collection of documented security labs, detection work, investigations, cloud controls, application-security exercises and automation.
 
 ---
 
 ## ⚡ Core Capability Matrix
 
-| Domain | Focus | Technologies |
+| Domain | Demonstrated focus | Technologies |
 |---|---|---|
-| **SOC / SIEM** | Monitoring, alert triage, log analysis, investigation | Wazuh · Splunk/SPL · Sysmon · Windows Security |
-| **Detection Engineering** | Rules, validation, attack simulation | Wazuh · Sigma · MITRE ATT&CK |
+| **SOC / SIEM** | Monitoring, alert triage, log analysis, investigation | Wazuh · Splunk/SPL · Sysmon |
+| **Detection Engineering** | Detection logic, validation, attack simulation | Wazuh · Sigma · MITRE ATT&CK |
 | **DFIR / IR** | Evidence handling, forensics, IOC analysis | Volatility · AVML · Linux/Windows |
 | **Windows / Identity** | Authentication, privilege monitoring, hardening | Windows Server · AD · PowerShell |
 | **Network Security** | Reconnaissance, PCAP and traffic analysis | Nmap · Wireshark · tshark |
-| **Cloud / IaC** | Security architecture and controls | GCP · Terraform · IAM · VPC |
+| **Cloud / IaC** | Secure architecture and controls | GCP · Terraform · IAM · VPC |
 | **Application Security** | Authorized web-security assessment | Burp Suite · OWASP · DVWA · Juice Shop |
-| **Automation** | Repeatable security tooling | Python · Bash · PowerShell |
+| **Automation** | Repeatable security workflows | Python · Bash · PowerShell |
 
 ---
 
 ## 🧪 Selected Technical Evidence
 
-- **Splunk SOC Lab Track** — six connected labs covering SSH authentication hunting, Windows/Sysmon process investigation, web-attack investigation, SPL detection engineering, SOC monitoring/dashboarding, and end-to-end SOC investigation using controlled synthetic telemetry.
-- **Windows → Sysmon → Wazuh** detection and investigation workflows
-- **Attack simulation & detection engineering** with controlled validation and ATT&CK mapping
-- **SOC alert triage** and security-event analysis
-- **Linux and Windows forensic investigations**
-- **Network reconnaissance and PCAP analysis**
-- **Active Directory security** and privilege-monitoring scenarios
-- **GCP/Terraform security architecture**
-- **Application security and DevSecOps** exercises
-- **Python/Bash/PowerShell security automation**
-
-## 🎯 Virtual Cybersecurity Experience
-
-Completed third-party Forage simulations, kept explicitly separate from employment and independent technical labs:
-
-- **Mastercard Cybersecurity Job Simulation** — phishing simulation design and results analysis
-- **Datacom Cyber Security Operations Job Simulation** — simulated ransomware investigation and risk assessment
-- **Deloitte Australia Cyber Job Simulation** — web activity-log investigation and suspected breach analysis
-- **AIG Shields Up: Cybersecurity Job Simulation** — CISA threat analysis, remediation advisory and controlled ransomware-recovery exercise
-
-**Evidence hub:** [Forage simulations and case studies](https://masiya-hub.org/forage.html)
+- **Splunk SOC Lab Track** — six connected SOC investigation labs using controlled synthetic telemetry.
+- **Windows → Sysmon → Wazuh** detection and investigation workflows.
+- **Attack simulation & detection engineering** with controlled validation and ATT&CK mapping.
+- **Linux and Windows forensic investigations** with evidence-handling and IOC workflows.
+- **Network reconnaissance and PCAP analysis** using Nmap, Wireshark and tshark.
+- **Active Directory security** and privilege-monitoring scenarios.
+- **GCP/Terraform security architecture** and IAM/VPC controls.
+- **Application security** exercises using authorized OWASP/DVWA/Juice Shop environments.
+- **Python, Bash and PowerShell security automation**.
 
 ---
 
 ## 🎓 Credentials
 
-**Security**
-- CompTIA Security+ (SY0-701) — **Certified**
-- GRC Fundamentals
+### Cybersecurity
+- **CompTIA Security+ (SY0-701) — Certified**
 - Cisco Junior Cybersecurity Analyst Career Path
 - Cisco Introduction to Cybersecurity
+- GRC Fundamentals
 - Introduction to AI Security
 
-**Google / IBM / AI**
+### Google / IBM / AI
 - Google Cybersecurity Professional Certificate
 - Google IT Support Professional Certificate
 - Google AI Essentials
 - Introduction to Generative AI — Google
 - Artificial Intelligence Fundamentals — IBM
 
-**Virtual Experience**
+### Virtual Experience
 - Mastercard Cybersecurity Job Simulation — Forage
 - Datacom Cyber Security Operations Job Simulation — Forage
 - Deloitte Australia Cyber Job Simulation — Forage
@@ -114,7 +101,7 @@ Completed third-party Forage simulations, kept explicitly separate from employme
 
 ## 💼 Professional Foundation
 
-My enterprise IT foundation includes:
+My enterprise IT background includes:
 
 - Windows environments and Windows Server
 - Active Directory and access control
@@ -124,7 +111,7 @@ My enterprise IT foundation includes:
 - Network and infrastructure operations
 - Business-critical technical support
 
-This operational background informs the security work: **understand the environment, collect useful telemetry, identify abnormal activity, investigate evidence and remediate the underlying issue.**
+This foundation informs my security approach: **understand the environment, collect useful telemetry, identify abnormal activity, investigate evidence and remediate the underlying issue.**
 
 ---
 
@@ -136,18 +123,26 @@ This operational background informs the security work: **understand the environm
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Targets
 
-**SOC Analyst · Security Operations Analyst · Cybersecurity Analyst**
+**Primary:** SOC Analyst · Security Operations Analyst · Cybersecurity Analyst
 
-**Detection Engineering · Incident Response · Threat Hunting · DFIR · Security Automation · Junior Security Engineering**
+**Additional:** Detection Engineering · Incident Response · Threat Hunting · DFIR · Security Automation · Junior Security Engineering
 
-**Open to international opportunities and relocation.**
+**Availability:** Open to international opportunities and relocation.
+
+---
+
+## 🔐 Publication & Evidence Standard
+
+The public cybersecurity portfolio is published from a private development repository after automated security and quality validation. Private career operations and sensitive application data remain private.
+
+Portfolio evidence distinguishes **professional experience, independent authorized work, coursework and virtual experience**. Security testing is performed only against systems and environments intentionally authorized for testing.
 
 ---
 
 ## 🌐 Connect
 
-**[Portfolio](https://masiya-hub.org/)** · **[Cybersecurity Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)** · **[LinkedIn](https://www.linkedin.com/in/hazvinei-masiya/)**
+**[Live Portfolio](https://masiya-hub.org/)** · **[GitHub](https://github.com/hnmasiya)** · **[Cybersecurity Portfolio](https://github.com/hnmasiya/cybersecurity-portfolio)** · **[LinkedIn](https://www.linkedin.com/in/hazvinei-masiya/)**
 
-<sub>Evidence is presented with explicit scope and limitations. Authorized testing only.</sub>
+<sub>Evidence-backed. Security-focused. Explicit about scope.</sub>

@@ -4,7 +4,7 @@
 
 ### Cybersecurity Professional | Security Operations | Detection Engineering | Incident Response
 
-**12+ Years Enterprise IT · CompTIA Security+ Certified · BSc Computer Science — In Progress**
+**12+ Years Enterprise IT · CompTIA Security+ (SY0-701) Certified · BSc Computer Science — In Progress**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-masiya--hub.org-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masiya-hub.org/)
 [![Cybersecurity Portfolio](https://img.shields.io/badge/Cybersecurity%20Portfolio-Open-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnmasiya/cybersecurity-portfolio)
@@ -76,15 +76,15 @@ A recruiter-facing collection of documented security labs, detection work, inves
 ## 🎓 Credentials
 
 ### Cybersecurity
-- **CompTIA Security+ (SY0-701) — Certified**
+- **CompTIA Security+ (SY0-701) — Certified · Issued July 2026 · Valid through July 2029**
 - Cisco Junior Cybersecurity Analyst Career Path
 - Cisco Introduction to Cybersecurity
 - GRC Fundamentals
 - Introduction to AI Security
 
 ### Google / IBM / AI
-- Google Cybersecurity Professional Certificate
-- Google IT Support Professional Certificate
+- **Google Cybersecurity Professional Certificate** — Issued July 2023
+- **Google IT Support Professional Certificate** — Issued June 2025
 - Google AI Essentials
 - Introduction to Generative AI — Google
 - Artificial Intelligence Fundamentals — IBM
@@ -120,6 +120,8 @@ This foundation informs my security approach: **understand the environment, coll
 - **BSc in Computer Science** — Unicaf University · In Progress
 - **Diploma in Information Technology** — Macmaine School of Computing
 - **Diploma in PC Maintenance and Networking** — Macmaine School of Computing
+
+> **Qualification accuracy:** National Diploma in ICT — Harare Polytechnic is not part of my current qualification profile and is intentionally not listed.
 
 ---
 

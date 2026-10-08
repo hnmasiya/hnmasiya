@@ -123,6 +123,8 @@ This foundation informs my security approach: **understand the environment, coll
 
 > **Qualification accuracy:** National Diploma in ICT — Harare Polytechnic is not part of my current qualification profile and is intentionally not listed.
 
+> **Qualification accuracy:** National Diploma in ICT — Harare Polytechnic is not part of my current qualification profile and is intentionally not listed.
+
 ---
 
 ## 🎯 Career Targets

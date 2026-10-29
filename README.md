@@ -127,9 +127,8 @@ This foundation informs my security approach: **understand the environment, coll
 
 ## 🎓 Additional Learning & Credentials
 
-- **Columbia University — Columbia+ digital badge**: [View badge and verify credential](https://badges.plus.columbia.edu/c291f4f2-a326-4a4f-ba4f-b9fc6d981b85#acc.ZnsXfIRd)
-
-> The credential is linked to its original verification page. Refer to that page for the exact course title, award status and credential details.
+- **AI Cybersecurity and Governance — Columbia+** · Completed 29 October 2026 · [View and verify credential](https://badges.plus.columbia.edu/c291f4f2-a326-4a4f-ba4f-b9fc6d981b85#acc.ZnsXfIRd)
+  - Topics: generative and agentic AI risks, prompt injection, deepfake fraud, model extraction, Shadow AI, human-in-the-loop safeguards, AI inventories, AI Bill of Materials, ISO 42001, SAIF, AIUC-1 and AI regulation.
 
 ## 🎯 Career Targets
 

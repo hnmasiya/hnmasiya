@@ -125,6 +125,12 @@ This foundation informs my security approach: **understand the environment, coll
 
 ---
 
+## 🎓 Additional Learning & Credentials
+
+- **Columbia University — Columbia+ digital badge**: [View badge and verify credential](https://badges.plus.columbia.edu/c291f4f2-a326-4a4f-ba4f-b9fc6d981b85#acc.ZnsXfIRd)
+
+> The credential is linked to its original verification page. Refer to that page for the exact course title, award status and credential details.
+
 ## 🎯 Career Targets
 
 **Primary:** SOC Analyst · Security Operations Analyst · Cybersecurity Analyst

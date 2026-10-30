@@ -70,6 +70,7 @@ A recruiter-facing collection of documented security labs, detection work, inves
 - **GCP/Terraform security architecture** and IAM/VPC controls.
 - **Application security** exercises using authorized OWASP/DVWA/Juice Shop environments.
 - **Python, Bash and PowerShell security automation**.
+- **[AI Cybersecurity & Governance Lab](https://github.com/hnmasiya/ai-security-lab)** — local prompt-injection controls, synthetic-event detection, Shadow AI DNS indicators, threat modelling and AI governance artefacts. Offline tests pass; live Ollama model testing remains pending.
 
 ---
 

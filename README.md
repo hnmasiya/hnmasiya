@@ -90,6 +90,9 @@ A recruiter-facing collection of documented security labs, detection work, inves
 - Introduction to Generative AI — Google
 - Artificial Intelligence Fundamentals — IBM
 
+### Process & Quality
+- **Six Sigma Yellow Belt** — 6sigmastudy/VMEdu · Granted June 2020
+
 ### Virtual Experience
 - Mastercard Cybersecurity Job Simulation — Forage
 - Datacom Cyber Security Operations Job Simulation — Forage
